@@ -1,0 +1,26 @@
+body {
+    color: black;
+    font-family: sans-serif;
+}
+
+ul,
+ol {
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+ul:hover,
+ol:hover {
+    text-decoration: none;
+
+}
+
+img {
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+a {
+    font-size: 20px;
+}
